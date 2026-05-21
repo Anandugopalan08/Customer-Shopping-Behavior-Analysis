@@ -93,8 +93,8 @@ It aims to identify purchasing patterns, customer segments, churn risk, and reve
 
 ---
 
-## 👤 Author
-**B Sandeep**  
+## 👤 Creator
+**Anandu **  
 Data Analyst | Python | SQL | Power BI | Machine Learning
 
 
